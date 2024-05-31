@@ -81,6 +81,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### Contact
 
-Chathura Devinda Gamage - [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) - chathuradevinda.bc@gmail.com
+Chathura Devinda Gamage - [@Linkedin](https://www.linkedin.com/in/chathura-devinda-73ab25229) - chathuradevinda.bc@gmail.com
 
 Project Link: [https://github.com/Dewchathu/KAT](https://github.com/Dewchathu/KAT)
